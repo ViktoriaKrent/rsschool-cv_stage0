@@ -40,9 +40,3 @@ return a*b
 * grammar B1
 * speech A2
 * writing A2
-
-
-
-
-
-
