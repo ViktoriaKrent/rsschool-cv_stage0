@@ -18,6 +18,7 @@ I develop in different directions and never stop there. I like learning new skil
 
 * HTML
 * CSS
+* JavaScript
 
 ## Code example:
 
